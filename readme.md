@@ -132,6 +132,112 @@ https://doodad.dev/pattern-generator/
 https://github.com/abeimler/ecs_benchmark
 
 
+## Godot
+
+### Addons
+
+https://github.com/Ark2000/PankuConsole
+
+
+### Random commits etc
+
+#### IK
+
+https://github.com/V-Sekai
+
+https://github.com/V-Sekai/many_bone_ik
+
+https://github.com/godotengine/godot/pull/70887
+
+https://github.com/GeorgeS2019/Godot4-3D-IK-Demo/issues/3
+
+
+https://github.com/TokageItLab/ewbik
+
+https://gist.github.com/fire/1953bd6bb0e9cc3b964796317d23c702
+
+https://github.com/godotengine/godot/issues/69752
+
+https://github.com/godotengine/godot/pull/71137
+
+https://github.com/godotengine/godot/pull/75536/commits/19d149e368005ba5e669ee405b8384b889fb84de#
+
+https://github.com/V-Sekai/godot/tree/ik-anim-node
+
+https://github.com/godotengine/godot/pull/70887
+
+https://gist.github.com/fire/1953bd6bb0e9cc3b964796317d23c702
+
+https://github.com/godotengine/godot/pull/77469
+
+https://github.com/V-Sekai/many_bone_ik/tree/master
+
+https://github.com/godotengine/godot/pull/77469/commits
+
+https://github.com/godotengine/godot/issues/77271
+
+https://github.com/godotengine/godot/pull/77469/commits
+
+https://github.com/godotengine/godot/pull/77469/commits/6dfa6fc50e957dcffd6b2c33cc5a88448918d8a5
+
+
+https://github.com/godotengine/godot/blob/master/scene/3d/skeleton_3d.cpp
+
+https://github.com/godotengine/godot/pull/77469
+
+https://github.com/godotengine/godot/issues/54891
+
+https://github.com/godotengine/godot/commit/92a79ace5b3e58933ecdb0e21e3c3402073979b0
+
+https://github.com/V-Sekai/godot-dem-bones
+
+
+Temp IK related stuff.
+
+#### Commits
+
+https://github.com/godotengine/godot/commit/1d22e040cb5a521dacf8d47fa0638b8f2bf439a3
+
+https://github.com/godotengine/godot/pull/70885
+
+
+https://github.com/godot-plus/godot-plus/commits/3.x
+
+
+https://github.com/godotengine/godot-proposals/issues/1796
+
+https://github.com/godotengine/godot/pull/69405
+
+https://github.com/godotengine/godot/pull/71510
+
+
+https://github.com/orgs/godot-plus/repositories
+
+
+https://github.com/godot-plus/godot-plus/commits/3.x
+
+https://github.com/godotengine/godot/pull/75846
+
+https://github.com/godotengine/godot/pull/72170/commits
+
+https://github.com/godotengine/godot/pull/71846
+
+https://github.com/godotengine/godot/pull/72170
+
+https://github.com/godotengine/godot/commit/ca0feabbb08daf28606a37e8a46295b7e7fdcaf3
+
+https://github.com/godotengine/godot-proposals/issues/2380
+
+https://github.com/godotengine/godot/pull/76462
+
+
+
+
+
+
+
+
+
 ## Rendering
 
 ### Software
