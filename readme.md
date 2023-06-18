@@ -102,7 +102,30 @@ https://www.gameuidatabase.com/
 
 ## Art 
 
+### Sprites
+
 https://www.spriters-resource.com/
+
+### SVG
+
+https://www.svgrepo.com/
+
+### CSS
+
+https://getcssscan.com/css-buttons-examples
+
+https://hihayk.github.io/shaper/
+
+https://components.ai/
+
+https://layout.bradwoods.io/
+
+### Generation
+
+#### Patterns
+
+https://doodad.dev/pattern-generator/
+
 
 ## ECS
 
@@ -146,6 +169,34 @@ https://github.com/KhronosGroup/glslang
 
 https://github.com/Dawoodoz/DFPSR
 
+## JS
+
+### UI Toolkits
+
+https://semantic-ui.com/
+https://w2ui.com/web/
+https://getbootstrap.com/
+https://www.blazeui.com/
+https://bulma.io/
+http://topcoat.io/
+https://github.com/turretcss/turretcss
+https://github.com/xizon/uix-kit
+https://github.com/fortytwostudio/basekit
+https://get.foundation/
+https://taniarascia.github.io/primitive/
+https://github.com/taniarascia/primitive
+https://luxacss.com/
+
+A bunch of js ui toolkits, mostly for research. Search engines can't seem to distinguish between these and JS frameworks (they also seem to really like - very likely ai generated - top list pages for some reson), so I guess I'm storing them.
+
+TODO should probably try to find better search engines.
+
+https://open-ui.org/
+https://github.com/openui/open-ui/tree/main
+
+Seems to be in planning phase, need to look at it properly later.
+
+
 ## Games
 
 ### Doom
@@ -153,7 +204,6 @@ https://github.com/Dawoodoz/DFPSR
 #### Obsidian Level Maker
 
 https://github.com/obsidian-level-maker/Obsidian
-
 
 ### MTG
 
@@ -171,12 +221,22 @@ www.underhanded-c.org
 
 https://www.ioccc.org/
 
-## Random articles
+
+## Random
+
+### Random articles
 
 https://m.signalvnoise.com/the-majestic-monolith/
+https://m.signalvnoise.com/html-over-the-wire/
 
+### Random pages
 
-## Random programs
+https://news.ycombinator.com/item?id=34218003
+https://news.ycombinator.com/item?id=34197613a
+
+They contain lots of industry insight.
+
+### Random programs
 
 https://forgejo.org/download/
 
